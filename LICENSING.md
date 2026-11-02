@@ -1,4 +1,4 @@
-# Overleaf AI Translator licensing
+# TransLeaf licensing
 
 Copyright (C) 2025-2026 Xiaofan Liu.
 
@@ -7,7 +7,7 @@ not replace the license text in [`LICENSE`](LICENSE).
 
 ## Original source code
 
-Original Overleaf AI Translator source code is available under the **GNU
+Original TransLeaf source code is available under the **GNU
 Affero General Public License, version 3 only (`AGPL-3.0-only`)**, except for
 files or components that carry their own license notice. This includes
 `AI-Translator.html` and the bridge under `tools/latex-bridge/`.
@@ -20,7 +20,7 @@ code, as required by section 13 of the license.
 
 ## Separate commercial licensing
 
-The copyright holder reserves the right to offer Overleaf AI Translator under
+The copyright holder reserves the right to offer TransLeaf under
 separate commercial terms. An organization that wants to incorporate this
 software into a proprietary product, or to operate a modified version without
 satisfying the AGPL, should request a separate written commercial license.

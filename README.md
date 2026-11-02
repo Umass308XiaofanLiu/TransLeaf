@@ -1,10 +1,12 @@
-# Overleaf AI Translator
+# TransLeaf
+
+**LaTeX-safe LLM translation for Overleaf papers.** Formerly *Overleaf AI Translator*.
 
 [![License: AGPL-3.0-only](https://img.shields.io/badge/License-AGPL--3.0--only-663399.svg)](LICENSE)
 
 ![Visual mode: rendered paper with paragraph-level translation and the compiled PDF](docs/screenshots/visual-mode.png)
 
-Overleaf AI Translator is a translation workspace for LaTeX research papers,
+TransLeaf is a translation workspace for LaTeX research papers,
 integrated with Overleaf. It opens an Overleaf project, compiles it locally,
 and shows the rendered paper with a translation beside every paragraph.
 Mathematics, citations, cross-references, labels and color macros are
@@ -246,7 +248,7 @@ entered in the application's settings and stored in the browser.
 
 ## License, commercial use, and brand
 
-The original source code of Overleaf AI Translator is Copyright (C) 2025-2026
+The original source code of TransLeaf is Copyright (C) 2025-2026
 Xiaofan Liu and is licensed under **AGPL-3.0-only**. Anyone who operates a
 modified version over a network must provide the corresponding source, as the
 license requires. Organizations that need proprietary terms can request a
